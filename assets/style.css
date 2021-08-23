@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background-color: bisque;
+    border: 1px solid red;
+}
+
+.find-state {
+    background-color: #f86000;
+    color: #fff;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.find-state:hover {
+    transform: scale(1.1);
+}
+
+.status {
+    display: flex;
+    /* color: #87b; */
+    font-size: 80px;
+    /* justify-content: center;
+    align-items: center; */
+}
